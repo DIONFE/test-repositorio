@@ -1,7 +1,7 @@
 # test script
 
 param(
-    [string] $message = 'helo wolrd'
+    [string] $message = 'helo wolrdf'
 )
 
 Write-Output $message 
